@@ -1,1 +1,3 @@
-FROM ubuntu:14.04
+FROM node
+
+EXPOSE 8888
